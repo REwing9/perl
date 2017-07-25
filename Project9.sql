@@ -1,0 +1,1 @@
+SELECT * FROM List2.Contacts;
